@@ -1,3 +1,4 @@
+// it is similar to find pivot index problem problrm number 724
 #include <iostream>
 #include <vector>
 using namespace std;
